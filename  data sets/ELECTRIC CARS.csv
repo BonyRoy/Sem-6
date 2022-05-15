@@ -1,0 +1,10 @@
+MODEL,COMPANY,PRICE,FUEL TYPE,RANGE,BOOTSPACE(Liters),SAFTY,TYPE
+SE,MINI Cooper,47.2,Electric,242,211,4,hatchback
+iX,BMW,118,Electric,521,500,4,SPORTS SUV
+xc40,volvo,75,Electric,418,460,5,SPORTS SUV
+ZS EV,MG,21.99,Electric,419,470,5,Compact Suv
+tigor,Tata,12.24,Electric,306,316,5,Sedan
+nexon,Tata,14.54,Electric,312,350,5,Compact Suv
+e-tron,Audi,100,Electric,484,615,5,Compact Suv
+I-Pace,Jaguar,108,Electric,470,577,4,Sedan
+Kona,hyundai,23.79,Electric,452,332,5,Compact Suv

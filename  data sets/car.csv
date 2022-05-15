@@ -1,0 +1,226 @@
+MODEL,COMPANY,PRICE(LAKHS) EX-SHOWROOM,FUEL TYPE,MILAGE (Kmpl),SAFTY(star),TYPE,BOOTSPACE,ENGINE CC,EMISSION NORM
+Baleno,suzuki,6.14,petrol,24,2,hatchback,339,1197,BS6
+Swift,suzuki,5.93,petrol,24,1,hatchback,268,1197,BS6
+Vitara Brezza,suzuki,7.69,petrol,19,3,compact suv,328,1462,BS6
+ertiga,suzuki,8.12,petrol,19,2,mpv,209,1462,BS6
+ertiga,suzuki,9.87,cng,24,2,mpv,209,1462,BS6
+dzire,suzuki,6.09,petrol,24,2,sedan,378,1197,BS6
+wagon r,suzuki,5.18,petrol,21,2,hatchback,341,1197,BS6
+wagon r,suzuki,6.82,cng,32,2,hatchback,341,1197,BS6
+celerio,suzuki,5.15,petrol,26,2,hatchback,341,1197,BS6
+alto,suzuki,3.35,petrol,22,2,hatchback,177,998,BS6
+xl6,suzuki,10.14,petrol,19,2,mpv,209,1462,BS6
+s cross,suzuki,8.83,petrol,18,3,compact suv,375,1462,BS6
+s presso,suzuki,3.87,petrol,22,1,sedan,270,998,BS6
+ciaz,suzuki,8.85,petrol,21,3,hatchback,510,1462,BS6
+ignis,suzuki,5.25,petrol,21,2,hatchback,260,1197,BS6
+eeco,suzuki,4.51,petrol,16,2,mpv,275,1196,BS6
+eeco,suzuki,6.63,cng,20,2,mpv,275,1196,BS6
+city,honda,11.33,petrol,17,4,sedan,506,1498,BS6
+amaze,honda,6.44,petrol,18,3,sedan,402,1199,BS6
+wrv,honda,8.99,petrol,17,3,compact suv,363,1199,BS6
+jazz,honda,7.71,petrol,17,4,hatchback,354,1199,BS6
+city,honda,15.42,diesel,24,4,sedan,506,1498,BS6
+amaze,honda,8.82,diesel,24,3,sedan,420,1498,BS6
+wrv,honda,10.98,diesel,23,3,compact suv,363,1498,BS6
+creta,hyundai,10.23,petrol,17,4,compact suv,433,1497,BS6
+creta,hyundai,10.71,diesel,21,4,compact suv,433,1493,BS6
+venue,hyundai,6.99,petrol,17,4,sedan,350,1197,BS6
+venue,hyundai,9.53,diesel,23,4,sedan,350,1498,BS6
+alcazar,hyundai,16.34,petrol,14,3,mpv,180,1999,BS6
+alcazar,hyundai,16.75,diesel,18,3,mpv,180,1493,BS6
+i20,hyundai,6.98,petrol,19,3,hatchback,311,1197,BS6
+i20,hyundai,8.22,diesel,25,3,hatchback,311,1493,BS6
+verna,hyundai,9.32,petrol,17,4,sedan,480,1497,BS6
+verna,hyundai,11.51,diesel,23,4,sedan,480,1493,BS6
+aura,hyundai,5.99,petrol,20,3,sedan,402,1197,BS6
+aura,hyundai,7.98,diesel,25,3,sedan,402,1186,BS6
+aura,hyundai,7.71,cng,28,3,sedan,402,1197,BS6
+santro,hyundai,4.86,petrol,20,3,hatchback,235,1086,BS6
+santro,hyundai,6.12,cng,30,3,hatchback,235,1086,BS6
+elentra,hyundai,17.86,petrol,14,4,sedan,458,1999,BS6
+elentra,hyundai,20.15,diesel,14,4,sedan,458,1493,BS6
+i10 nios,hyundai,5.29,petrol,20,3,hatchback,225,1197,BS6
+i10 nios,hyundai,7.41,diesel,26,3,hatchback,225,1186,BS6
+i10 nios,hyundai,7.11,cng,28,3,hatchback,225,1197,BS6
+seltos,kia,9.95,petrol,17,2,compact suv,433,1497,BS6
+sonet,kia,6.95,petrol,18,2,compact suv,392,1197,BS6
+carnival,kia,25.49,petrol,10.5,3,mpv,540,2199,BS6
+carens,kia,11.95,petrol,16,2,mpv,492,1497,BS6
+seltos,kia,10.75,diesel,19.5,2,compact suv,433,1493,BS6
+sonet,kia,8.65,diesel,20,2,compact suv,392,1493,BS6
+carnival,kia,27.25,diesel,14,3,mpv,540,2199,BS6
+carens,kia,14.15,diesel,18,2,mpv,492,1493,BS6
+kushaq,skoda,10.99,petrol,18,4,compact suv,385,999,BS6
+kodiaq,skoda,34.15,petrol,13,4,suv,270,1948,BS6
+slavia,skoda,10.99,petrol,18,4,sedan,521,999,BS6
+octavia,skoda,26.29,petrol,16,4,sedan,590,1948,BS6
+superb,skoda,32.55,petrol,15,4,sedan,625,1948,BS6
+fortuner,toyota,31.39,petrol,10,4,suv,296,2694,BS6
+fortuner,toyota,33.89,diesel,11,4,suv,296,2681,BS6
+innova,toyota,17.31,petrol,12,4,mpv,300,2694,BS6
+innova,toyota,18.18,diesel,14,4,mpv,300,2681,BS6
+camry,toyota,41.7,petrol,12,4,sedan,587,2498,BS6
+vellfire,toyota,89.95,petrol,16,4,limousine,616,2494,BS6
+glanza,toyota,7.49,petrol,24,2,hatchback,339,1197,BS6
+Urban Cruise,toyota,8.72,petrol,19,3,compact suv,328,1462,BS6
+polo,volkswagen,6.45,petrol,18,4,hatchback,351,999,BS6
+taigun,volkswagen,10.99,petrol,18,4,compact suv,520,999,BS6
+tiguan,volkswagen,31.99,petrol,13,4,suv,52,1984,BS6
+vento,volkswagen,9.99,petrol,18,4,sedan,494,999,BS6
+punch,tata,5.64,petrol,19,5,hatchback,366,1199,BS6
+tiago,tata,5.19,petrol,23,5,hatchback,242,1199,BS6
+nexon,tata,7.39,petrol,17,5,hatchback,350,1199,BS6
+harrier,tata,14.49,diesel,17,5,compact suv,425,1956,BS6
+altroz,tata,5.99,petrol,19,5,hatchback,345,1199,BS6
+tigor,tata,5.79,petrol,20,5,sedan,419,1199,BS6
+safari,tata,14.99,diesel,16,5,mpv,73,1956,BS6
+tiago,tata,6.05,cng,26,5,hatchback,242,1199,BS6
+nexon,tata,9.69,diesel,21,5,compact suv,350,1497,BS6
+altroz,tata,7.19,diesel,25,5,hatchback,345,1497,BS6
+tigor,tata,7.69,cng,30,5,sedan,419,1199,BS6
+kwid,renault,4.24,petrol,22,2,hatchback,279,999,BS6
+kiger,renault,5.79,petrol,21,3,compact suv,405,999,BS6
+triber,renault,5.69,petrol,20,1,mpv,84,999,BS6
+duster,renault,9.86,petrol,16,4,compact suv,475,1489,BS6
+thar,mahindra,13.17,petrol,15,4,off road,600,1997,BS6
+xuv700,mahindra,12.95,petrol,14,5,suv,160,1999,BS6
+scorpio,mahindra,13.18,diesel,14.5,5,suv,460,2179,BS6
+xuv300,mahindra,8.16,petrol,17,5,compact suv,275,1197,BS6
+marazzo,mahindra,12.85,diesel,17,5,mpv,190,1497,BS6
+alturas g4,mahindra,28.84,diesel,12,5,suv,240,2157,BS6
+thar,mahindra,13.38,diesel,15,4,off road,600,2184,BS6
+xuv700,mahindra,13.47,diesel,18,5,suv,160,2198,BS6
+xuv300,mahindra,9.35,diesel,20,5,compact suv,275,1497,BS6
+magnite,nissan,5.76,petrol,20,3,compact suv,336,999,BS6
+kicks,nissan,9.49,petrol,14,4,compact suv,400,1498,BS6
+GT-R,nissan,212,petrol,9,0,sports,315,3798,BS6
+redi go,datsun,3.83,petrol,22,2,hatchback,222,799,BS6
+go,datsun,4.02,petrol,20,2,hatchback,265,1198,BS6
+go plus,datsun,4.25,petrol,19,2,mpv,347,1198,BS6
+compass,jeep,17.79,petrol,14,5,compact suv,438,1368,BS6
+compass,jeep,19.49,diesel,17,5,compact suv,438,1956,BS6
+wrangler,jeep,56.35,petrol,12,5,off road,897,1998,BS6
+hector,mg,13.94,diesel,12,4,compact suv,587,1451,BS6
+hector plus,mg,15.94,diesel,12,4,mpv,155,1451,BS6
+aster,mg,9.98,petrol,14,4,compact suv,433,1498,BS6
+gloster,mg,30.99,diesel,15,4,suv,343,1996,BS6
+Mustang,ford,75,petrol,8,1,sports,NA,4999,BS6
+D-Max,isuzu,11.99,diesel,17,4,Business,265,2499,BS6
+Mu-X,isuzu,33.37,diesel,13,4,mpv,235,1898,BS6
+Phantom,Rolls-Royce,900,petrol,10,5,luxury,548,6749,BS6
+Gost,Rolls-Royce,695,petrol,9,5,luxury,507,6750,BS6
+Cullinan,Rolls-Royce,695,petrol,10,5,luxury,600,6750,BS6
+Wraith,Rolls-Royce,622,petrol,10,5,luxury,470,6592,BS6
+Dawn,Rolls-Royce,730,petrol,10,5,luxury,,6598,BS6
+Range Rover,Land Rover,246,petrol,7,5,suv,900,2894,BS6
+Defender,Land Rover,80.72,petrol,14,5,suv,231,2995,BS6
+Range Rover Velar,Land Rover,86.75,petrol,16,5,suv,552,1997,BS6
+Range Rover Evoque,Land Rover,66.12,petrol,14,5,suv,472,1997,BS6
+Discovery,Land Rover,88.06,petrol,10,5,suv,258,2995,BS6
+Discovery Sport,Land Rover,67,petrol,7,5,suv,115,1997,BS6
+Range Rover Sport,Land Rover,91.27,petrol,8,5,suv,623,1997,BS6
+Range Rover,Land Rover,231,diesel,7,5,suv,482,4395,BS6
+Defender,Land Rover,104,diesel,14,5,suv,231,2996,BS6
+Range Rover Velar,Land Rover,88.06,diesel,16,5,suv,552,1999,BS6
+Range Rover Evoque,Land Rover,64,diesel,14,5,suv,472,1997,BS6
+Discovery,Land Rover,113,diesel,10,5,suv,258,2996,BS6
+Discovery Sport,Land Rover,65,diesel,9,5,suv,115,1999,BS6
+Range Rover Sport,Land Rover,115,diesel,12,5,suv,623,2993,BS6
+x3,bmw,59.9,petrol,13,5,suv,550,1995,BS6
+x1,bmw,39.9,petrol,15,5,suv,505,1998,BS6
+x5,bmw,76.5,petrol,11,5,suv,650,2998,BS6
+x7,bmw,115,petrol,10,5,suv,326,2998,BS6
+3 series,bmw,45,petrol,15,4,sedan,480,1998,BS6
+5 series,bmw,63,petrol,14,3,sedan,530,1998,BS6
+z4,bmw,69,petrol,14,2,sports,281,1998,BS6
+2 series,bmw,39,petrol,15,4,sedan,390,1998,BS6
+x6,bmw,101,petrol,7,5,sedan,580,2998,BS6
+7 series,bmw,144,petrol,39.53,5,sedan,515,2998,BS6
+x4,bmw,67,petrol,12,5,sedan,525,2998,BS6
+M5,bmw,161,petrol,9,2,sports,530,4395,BS6
+6 series,bmw,68,petrol,13,4,sedan,610,1998,BS6
+M2,bmw,85,petrol,11,2,sports,390,2979,BS6
+M4 Competition,bmw,144,petrol,7,2,sports,368.19,2993,BS6
+8 series,bmw,132,petrol,11,3,sports,420,4395,BS6
+x3,bmw,65,diesel,17,5,suv,550,1998,BS6
+x1,bmw,43.5,diesel,20,5,suv,505,1995,BS6
+x5,bmw,79.5,diesel,14,5,suv,650,2993,BS6
+x7,bmw,115.5,diesel,12,5,suv,326,2993,BS6
+3 series,bmw,48,diesel,20,4,sedan,480,1995,BS6
+5 series,bmw,65,diesel,20,3,sedan,530,1995,BS6
+2 series,bmw,41,diesel,20,3,sedan,390,1995,BS6
+x6,bmw,101,diesel,10,5,sedan,580,2998,BS6
+7 series,bmw,141,diesel,17.66,4,sedan,515,2993,BS6
+x4,bmw,71,diesel,14,4,sedan,525,2993,BS6
+6 series,bmw,70,diesel,18,5,sedan,610,1995,BS6
+q7,audi,79.99,petrol,11,5,suv,740,2995,BS6
+a6,audi,58.8,petrol,14,4,sedan,530,1984,BS6
+a4,audi,39.99,petrol,17,4,sedan,460,1997,BS6
+q5,audi,59.22,petrol,13,5,suv,520,1984,BS6
+q2,audi,34.99,petrol,17,5,compact suv,355,1984,BS6
+a8,audi,157,petrol,12,5,sedan,505,2995,BS6
+rs7,audi,219,petrol,9,2,sports,535,3996,BS6
+q8,audi,101,petrol,10,5,suv,605,2995,BS6
+rs5,audi,107,petrol,9,2,sports,465,2894,BS6
+ls,lexus,191,petrol,15,5,sedan,430,3456,BS6
+es,lexus,56.65,petrol,22,5,sedan,NA,2487,BS6
+nx,lexus,58.2,petrol,18,5,suv,475,2499,BS6
+rx,lexus,109,petrol,19,5,suv,NA,3456,BS6
+lx,lexus,232,petrol,7,5,mpv,475,5663,BS6
+lc,lexus,209,petrol,12,2,sports,NA,3456,BS6
+xc90,volvo,90.9,petrol,46,5,mpv,314,1969,BS6
+xc40,volvo,43.25,petrol,19,5,compact suv,460,1969,BS6
+xc60,volvo,63.5,petrol,11,5,suv,483,1998,BS6
+s90,volvo,64.9,petrol,15,4,sedan,461,1969,BS6
+s60,volvo,45.9,petrol,15,4,sedan,442,1969,BS6
+xe,jaguar,46.64,petrol,14,4,sedan,269,1997,BS6
+f-type,jaguar,98.13,petrol,12,3,sports,336,1997,BS6
+f-pace,jaguar,74.86,petrol,7,5,suv,613,4999,BS6
+xf,jaguar,71.6,petrol,14,4,sedan,540,1997,BS6
+gla,mercedes-benz,45,petrol,15,5,compact suv,435,1332,BS6
+gla,mercedes-benz,48,diesel,17,5,compact suv,435,1950,BS6
+e-class,mercedes-benz,65,petrol,16,5,sedan,540,1991,BS6
+e-class,mercedes-benz,67,diesel,16,5,sedan,540,2925,BS6
+glc,mercedes-benz,61,petrol,12,5,suv,550,1991,BS6
+glc,mercedes-benz,66.51,diesel,16,5,suv,550,1950,BS6
+s-class,mercedes-benz,165,petrol,12,5,sedan,550,2999,BS6
+s-class,mercedes-benz,158,diesel,14,5,sedan,550,2925,BS6
+gls,mercedes-benz,113,petrol,6,5,mpv,520,3982,BS6
+gls,mercedes-benz,113,diesel,8,5,mpv,520,2925,BS6
+G,mercedes-benz,163,diesel,8,5,off road,667,2925,BS6
+AMG G,mercedes-benz,244,petrol,6,5,off road,480,3982,BS6
+v-class,mercedes-benz,71.1,diesel,16,5,limousine,61,2143,BS6
+gle,mercedes-benz,99.15,petrol,6,5,mpv,630,2999,BS6
+gle,mercedes-benz,84.24,diesel,10,5,mpv,630,1950,BS6
+a-class,mercedes-benz,41.55,petrol,14,4,sedan,405,1332,BS6
+a-class,mercedes-benz,43.55,diesel,16,4,sedan,405,1950,BS6
+cls,mercedes-benz,84.71,diesel,19,5,sedan,520,1950,BS6
+amg gt,mercedes-benz,271,petrol,12,2,sports,456,3982,BS6
+c-class,mercedes-benz,50,petrol,9.6,4,sedan,455,1991,BS6
+c-class,mercedes-benz,52,diesel,12.6,4,sedan,455,1950,BS6
+amg gle 63 s,mercedes-benz,210,petrol,8,4,suv sports,655,3982,BS6
+macan,porsche,83.21,petrol,9,5,compact suv,458,2894,BS6
+P911,porsche,169,petrol,9,2,sports,132,2981,BS6
+panamera,porsche,154,petrol,11,2,sedan,403,3996,BS6
+cayenne,porsche,126,petrol,8,2,compact suv,745,3998,BS6
+P718,porsche,125,petrol,9,1,sports,NA,3995,BS6
+roma,ferrari,376,petrol,6,1,sports,272,3855,BS6
+portfonio,ferrari,350,petrol,9,2,sports,292,3855,BS6
+sf90 stradale,ferrari,750,petrol,6,2,sports,74,3990,BS6
+F812,ferrari,575,petrol,5,2,sports,320,6496,BS6
+F8 tributo,ferrari,402,petrol,7,1,sports,200,3902,BS6
+bentayga,bentley,410,petrol,11,4,suv,484,3956,BS6
+continental,bentley,329,petrol,13,3,sports sedan,358,5998,BS6
+chiron,bugatti,1921,petrol,NA,NA,sports,NA,7993,BS6
+gurkha,force,14.1,diesel,13,5,off road,500,2596,BS6
+c5,citroen,32.23,diesel,19,5,compact suv,580,1997,BS6
+urus,lamborghini,315,petrol,8,3,suv sports,616,3996,BS6
+aventador,lamborghini,625,petrol,8,2,sports,110,6498,BS6
+huracan,lamborghini,321,petrol,7,2,sports,70,5204,BS6
+convertible,MINI Cooper,45,petrol,17,3,hatchback sports,100,1998,BS6
+3 DOOR,MINI Cooper,39,petrol,17,3,hatchback,211,1998,BS6
+countryman,MINI Cooper,41,petrol,14,4,compact suv,450,1998,BS6
+DBX,Aston Martin,382,petrol,NA,2,sports,632,3982,BS6
+DB11,Aston Martin,380,petrol,NA,2,sports,270,3998,BS6
+Vantage,Aston Martin,300,petrol,NA,2,sports,270,3998,BS6

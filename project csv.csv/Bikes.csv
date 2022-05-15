@@ -1,0 +1,111 @@
+MODEL,COMPANY,PRICE,MILAGE (kmpl),ENGINE CC,TYPE,EMISSION NORM
+jupiter 125,TVS,0.82,50,125,scooter,BS6
+Apache rtr 160 4v,TVS,1.17,45,160,bike,BS6
+raider,TVS,0.86,67,125,bike,BS6
+radeon,TVS,0.6,74,110,bike,BS6
+Ntorq,TVS,0.87,54,125,scooter,BS6
+Apache RR 310,TVS,2.59,33,312,bike,BS6
+Apache rtr 200 4v,TVS,1.41,40,197,bike,BS6
+Splendor,Hero,0.7,70,97,bike,BS6
+HF deluxe,Hero,0.6,70,97,bike,BS6
+Passion Pro,Hero,0.75,60,113,bike,BS6
+XPulse,Hero,1.3,52,199.6,bike,BS6
+Xtreme,Hero,1.16,55,163,bike,BS6
+Xtreme 200S,Hero,1.28,40,199.6,bike,BS6
+Pulsar NS200,Bajaj,1.36,41,199.5,bike,BS6
+Pulsar RS200,Bajaj,1.64,35,199.5,bike,BS6
+Pulsar 220F,Bajaj,1.34,40,220,bike,BS6
+Pulsar 125 Neon,Bajaj,0.86,51,124.4,bike,BS6
+Pulsar NS125,Bajaj,0.99,65,124.4,bike,BS6
+Pulsar NS160,Bajaj,1.19,41,160.3,bike,BS6
+Dominar,Bajaj,2.17,27,373.3,bike,BS6
+Pulsar N250,Bajaj,1.39,35,249,bike,BS6
+Pulsar F250,Bajaj,1.41,35,249,bike,BS6
+Avenger Street 160,Bajaj,1.08,47,160,bike,BS6
+Avenger Cruise 220,Bajaj,1.33,40,220,bike,BS6
+Platina 110,Bajaj,0.65,67,115.45,bike,BS6
+Activa 6G,Honda,0.72,55,109.51,scooter,BS6
+Shine,Honda,0.74,65,124,bike,BS6
+SP125,Honda,0.84,65,124,bike,BS6
+Dio,Honda,0.69,55,109.51,scooter,BS6
+Hiness CB350,Honda,1.96,46,348.36,bike,BS6
+Unicorn,Honda,1.01,62,162.7,bike,BS6
+Hornet 2.0,Honda,1.33,45,184.4,bike,BS6
+CB300R,Honda,2.77,30,286.01,bike,BS6
+CBR650R,Honda,8.89,25,648.72,bike,BS6
+CB200X,Honda,1.45,40,184,bike,BS6
+CBR1000RR,Honda,33.55,12.5,1000,bike,BS6
+African Twin,Honda,17.5,20.3,1082,bike,BS6
+Gold Wings,Honda,41,14,1833,bike,BS6
+classic 350,RoyalEnfield,2.18,42,349,bike,BS6
+Himalayan,RoyalEnfield,2.22,32,411,bike,BS6
+Continental GT 650,RoyalEnfield,3.26,27,648,bike,BS6
+Meteor,RoyalEnfield,2.17,42,349,bike,BS6
+R15 V3,Yamaha,1.59,49,155,bike,BS6
+MT-15,Yamaha,1.46,52,155,bike,BS6
+FZ V3,Yamaha,1.17,49,149,bike,BS6
+R15 V4,Yamaha,1.86,55,155,bike,BS6
+FZ-X,Yamaha,1.27,45,149,bike,BS6
+Fascino,Yamaha,0.82,69,125,scooter,BS6
+Aerox 155,Yamaha,1.32,49,155,scooter,BS6
+fz 25,Yamaha,1.45,50,249,bike,BS6
+Access 125,Suzuki,0.84,52,125,scooter,BS6
+Hayabusa,Suzuki,16.44,15,1340,bike,BS6
+Gixxer SF,Suzuki,1.44,40,155,bike,BS6
+Burgman,Suzuki,0.9,56,124,scooter,BS6
+Gixxer,Suzuki,1.33,40,155,bike,BS6
+Avenis,Suzuki,0.87,55,124,scooter,BS6
+SF 250,Suzuki,1.88,50.3,249,bike,BS6
+Intruder,Suzuki,1.27,44,155,bike,BS6
+Gixxer 250,Suzuki,1.77,38.5,249,bike,BS6
+DUKE 125,Ktm,1.7,47,124.7,bike,BS6
+DUKE 250,Ktm,2.28,41,248.8,bike,BS6
+DUKE 390,Ktm,2.87,28.9,373,bike,BS6
+RC 125,Ktm,1.81,45,124.7,bike,BS6
+RC 200,Ktm,2.08,35,199.5,bike,BS6
+RC 390,Ktm,2.95,28.4,373,bike,BS6
+Adventure,Ktm,2.35,38,248.8,bike,BS6
+Adventure,Ktm,3.28,28,373,bike,BS6
+Perak,Jawa,2.06,34,334,bike,BS6
+Jawa42,Jawa,293,40,172,bike,BS6
+Iron 883,Harley Davidson,10.11,20,883,bike,BS6
+Fat Bob 114,Harley Davidson,16.75,15,1868,bike,BS6
+Street Glide Special,Harley Davidson,31.99,18,379,bike,BS6
+VXL 150,Vespa,1.43,45,149.5,bike,BS6
+SXL 150,Vespa,1.39,45,149.5,bike,BS6
+VXL 125,Vespa,1.27,55,124.45,bike,BS6
+SXL 125,Vespa,1.27,48,124.45,bike,BS6
+Panigale V4,Ducati,23.5,15,1103,bike,BS6
+Monster,Ducati,11.24,20,937,bike,BS6
+Panigale V2,Ducati,17.49,15,955,bike,BS6
+Super Sport 950,Ducati,15.69,20,937,bike,BS6
+Diavel,Ducati,21.49,18.5,1262,bike,BS6
+Street Fighter V4,Ducati,19.99,13.2,1103,bike,BS6
+Multistrada V4,Ducati,23.3,15.4,1158,bike,BS6
+Ninja H2,Kawasaki,79.9,15,998,bike,BS6
+Ninja 300,Kawasaki,3.37,32,296,bike,BS6
+Z900,Kawasaki,8.84,15.26,948,bike,BS6
+ZX10R,Kawasaki,15.37,12,998,bike,BS6
+Ninja 650,Kawasaki,6.68,19,649,bike,BS6
+Vulcan S,Kawasaki,6.16,21,649,bike,BS6
+Z650,Kawasaki,6.24,19,649,bike,BS6
+TRK 502,Benelli,5.16,30,500,bike,BS6
+502 C,Benelli,5.3,27,500,bike,BS6
+Leoncino 500,Benelli,5.05,25,500,bike,BS6
+Street Triple,Triumph,11.35,19,765,bike,BS6
+Rocket 3,Triumph,21,14.7,2458,bike,BS6
+Tiger 900,Triumph,15.55,24,888,bike,BS6
+Street Twin,Triumph,8.25,25.6,900,bike,BS6
+Scrambler 900,Triumph,9.95,26.3,900,bike,BS6
+G310,BMW,2.65,32,158.5,bike,BS6
+S1000RR,BMW,23.95,15.6,999,bike,BS6
+G 310 GS,BMW,3.05,29,313,bike,BS6
+M1000RR,BMW,42,15.4,999,bike,BS6
+SR160,Aprilia,1.28,35,160,scooter,BS6
+SR125,Aprilia,1.08,50,124.45,scooter,BS6
+Storm,Aprilia,0.95,50,124.45,scooter,BS6
+RS 660,Aprilia,13.39,20.4,659,bike,BS6
+Tuono 660,Aprilia,13.09,31,659,bike,BS6
+SXR 160,Aprilia,1.27,47,160,scooter,BS6
+Svartpilen 250,Husqvarna,2.1,32,248.76,bike,BS6
+Viltpilen,Husqvarna,2.1,32,248.76,bike,BS6
